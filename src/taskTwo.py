@@ -15,6 +15,3 @@ while True:
         break
     else:
         print("Enter a valid command.\n")
-
-
-
