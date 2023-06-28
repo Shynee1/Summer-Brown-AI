@@ -6,6 +6,3 @@ def get_length(text):
 
 text = input("Enter text: ")
 print("# of Characters: " + str(get_length(text)))
-
-
-
