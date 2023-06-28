@@ -12,8 +12,8 @@ class Course:
 
     def removeStudent(self, student):
         self.students.remove(student)
-        student.remove(self)
-        
+        student.dropout(self)
+
     def isFull(self):
         return len(self.students) >= self.maxStudents
     
