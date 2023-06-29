@@ -1,2 +1,4 @@
 # Summer-Brown-AI
-Starting repository for AI course at Brown. Used to learn Git command line/work-flow.
+Main repository for AI course at Brown. 
+Each folder represents a different day of class.
+All in-class assignments and homework are uploaded to the day's folder.
