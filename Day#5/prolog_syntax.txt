@@ -1,0 +1,11 @@
+:- = IF
+, = AND
+; = OR
+not() = NOT
+-> = IF/ELSE
+/* */, % = COMMENT
+==, =>, <=, >, < = OPERATORS
+\== = NOT-EQUALS
+
+lowercase = object
+UPPERCASE = variable
